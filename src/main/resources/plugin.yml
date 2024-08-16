@@ -1,0 +1,8 @@
+name: PowerNukkitDS
+main: org.IceCube.PowerNukkitDS
+version: "1.0.1"
+api: [ "2.0.0" ]
+load: POSTWORLD
+author: IceCube(Egor5566)
+description: Connect your world with discord!
+prefix: "PowerNukkitDS"

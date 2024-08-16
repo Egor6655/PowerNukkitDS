@@ -1,0 +1,16 @@
+
+# discord bot for power nukkit X
+#Made by IceCube(Egor6655)
+
+#bot token
+Token: ""
+#name of channel in server
+#please use one bot for one discord server
+ChannelName: "examplechannel"
+#for sending debugging messages to console
+Debug: "true"
+
+on-server: "server is now on!"
+
+off-server: "server is now off!"
+
